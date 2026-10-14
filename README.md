@@ -1,6 +1,6 @@
 # Study Surge Privacy Centre
 
-Static privacy notice for Grade 12 All Subjects, Grade 12 Life Sciences A+, Grade 12 Parent, Grade 12 Teacher, Simple Study and the associated Study Surge website.
+Static privacy notice for Grade 12 All Subjects, Grade 12 Life Sciences A+, Grade 12 Parent, Grade 12 Teacher, Study Surge: Learning Games, Simple Study and the associated Study Surge website.
 
 ## Preview
 
@@ -16,7 +16,7 @@ The page has no tracking scripts, external fonts, remote embeds, cookie writes o
 
 ## Editorial Notes
 
-Reviewed against the local Grade 12 learner, Parent and Teacher app source and Simple Study source on 11 October 2026. Runtime deployments, provider billing/retention settings and administrative processes were not independently certified.
+Reviewed against the local Grade 12 learner, Parent, Teacher and Learning Games app source and Simple Study source on 14 October 2026. Runtime deployments, provider billing/retention settings and administrative processes were not independently certified.
 
 Revision 2 replaces internal-audit phrasing with a public-facing notice. It clarifies permitted submission purposes, user upload responsibilities, AI-result limitations, third-party services and transaction administration. Material disclosures about provider processing, children's information, local/cloud storage and account deletion remain. This is an editorial revision, not a change to how the products handle data.
 

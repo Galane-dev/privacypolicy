@@ -84,6 +84,14 @@ h1 { font-size: 52px; margin: 0 0 18px; font-weight: 750; }
 .policy li { padding-left: 5px; margin-block: 12px; }
 .policy li::marker { color: var(--accent); font-weight: 700; }
 .policy strong { font-weight: 700; }
+.product-register { list-style: none; padding: 0 !important; margin: 24px 0 28px !important; border-top: 1px solid var(--line); }
+.product-register li { display: grid; grid-template-columns: minmax(190px, 0.72fr) minmax(0, 1.28fr); gap: 24px; align-items: start; margin: 0; padding: 18px 0 !important; border-bottom: 1px solid var(--line); }
+.product-register li::marker { content: ""; }
+.product-register div { min-width: 0; }
+.product-register strong { display: block; color: var(--ink); line-height: 1.4; }
+.product-register span { display: block; margin-top: 3px; color: var(--accent); font-size: 12px; font-weight: 650; line-height: 1.5; }
+.product-register p { margin: 0; color: var(--muted); font-size: 14px; line-height: 1.65; }
+.product-register code { color: var(--ink); font-size: 12px; overflow-wrap: anywhere; }
 .contact-details { margin: 24px 0; background: var(--surface); padding: 20px 24px; border-left: 3px solid var(--accent); }
 .contact-details > div { display: grid; grid-template-columns: 135px minmax(0,1fr); gap: 12px; margin-block: 8px; }
 dt { font-weight: 700; }
@@ -144,6 +152,7 @@ td { color: var(--muted); }
   .policy { font-size: 15px; }
   .policy section { margin-bottom: 32px; padding-bottom: 28px; }
   .policy h3 { font-size: 18px; }
+  .product-register li { grid-template-columns: 1fr; gap: 8px; }
   .contact-details { padding: 16px; }
   .contact-details > div { grid-template-columns: 1fr; gap: 2px; margin-block: 12px; }
   .contact-details dt { font-size: 12px; color: var(--muted); }
